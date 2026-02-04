@@ -11,7 +11,7 @@ A modern, full-stack **Library Management System** built to streamline library o
 
 ### **Backend**
 
-- **Framework**: [Spring Boot 3.x](https://spring.io/projects/spring-boot)
+- **Framework**: [Spring Boot 4.0.2](https://spring.io/projects/spring-boot)
 - **Language**: Java 17
 - **Database**: H2 (In-memory) / JPA
 - **Build Tool**: Gradle
@@ -89,4 +89,3 @@ LibraryManagement/
 
 ---
 
-Made with ❤️ by [Your Name]
