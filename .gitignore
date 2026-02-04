@@ -1,0 +1,38 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node (Root level or fallback)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+out/
+
+# Vite
+.vite/
+*.local
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle/Java
+.gradle/
+*.class
+
+# Environment variables
+.env
+.env.*
+!.env.example
